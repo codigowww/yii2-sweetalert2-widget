@@ -114,7 +114,7 @@ class Alert extends Widget
         foreach ($flashes as $type => $data) {
             $data = (array)$data;
             foreach ($data as $message) {
-                array_push($steps, ['type' => $type, 'text' => $message]);
+                array_push($steps, ['type' => $type, 'html' => $message]);
             }
             $session->removeFlash($type);
         }

@@ -1,5 +1,5 @@
 {
-    "name": "dominus77/yii2-sweetalert2-widget",
+    "name": "codigowww/yii2-sweetalert2-widget",
     "description": "Renders a SweetAlert2 widget for Yii2.",
     "type": "yii2-extension",
     "keywords": ["dominus77","yii2","extension","widget","sweetalert2"],
